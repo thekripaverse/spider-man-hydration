@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Build and Packaging outputs
+dist/
+release/
+*.blockmap
+builder-debug.yml
+
+# Environment & Logs
+.env
+.env.local
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
